@@ -6,3 +6,5 @@ Plugin de KitPvP Para o Servidor CrazyPvP
 **version:** 1.0
 
 **description:** Plugin de KitPvP Para o Servidor CrazyPvP
+
+**author:** zCodex_
