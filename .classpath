@@ -6,10 +6,10 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/IZ44KPvP/Desktop/Coisas Desenvolvimento/BukkitAPI/BarAPI.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IZ44KPvP/Desktop/Coisas Desenvolvimento/BukkitAPI/Spigot-1649.jar" sourcepath="C:/Users/IZ44KPvP/Desktop/Coisas Desenvolvimento/BukkitAPI/Spigot-1649.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IZ44KPvP/Desktop/Coisas Desenvolvimento/BukkitAPI/TitleAPI-1.7.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IZ44KPvP/Desktop/Coisas Desenvolvimento/BukkitAPI/NametagEdit.jar"/>
-	<classpathentry kind="lib" path="C:/Users/IZ44KPvP/Desktop/Coisas Desenvolvimento/BukkitAPI/PermissionsEx-1.22.9.jar"/>
+	<classpathentry kind="lib" path="/APIs/PaperSpigot-1.7.10-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/APIs/PermissionsEx-1.22.10.jar"/>
+	<classpathentry kind="lib" path="/APIs/BarAPI-3.4.jar"/>
+	<classpathentry kind="lib" path="/APIs/NametagEdit-2.4.jar"/>
+	<classpathentry kind="lib" path="/APIs/TitleAPI-1.7.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
